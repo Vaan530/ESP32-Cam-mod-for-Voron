@@ -1,6 +1,6 @@
 # ESP32-Cam Mod For Voron V2
 
-This is a webcam mod for Voron V2. This project is still under development.
+This is a webcam mod for Voron V2. This project is currently under development.
 
 ---
 
