@@ -24,6 +24,6 @@ M2.5X5 Pan Head x 4
 
 ---
 
-Firmware Sample is modifiled form arkhipenko's ESP32 MJPEG Multiclient Streaming Server
+Firmware Sample is modified form arkhipenko's ESP32 MJPEG Multiclient Streaming Server
 
 https://github.com/arkhipenko/esp32-cam-mjpeg-multiclient
