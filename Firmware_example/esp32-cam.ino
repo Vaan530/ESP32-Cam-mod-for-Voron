@@ -453,8 +453,8 @@ void setup()
     //    .frame_size     = FRAMESIZE_QVGA,
     //    .frame_size     = FRAMESIZE_UXGA,
     //    .frame_size     = FRAMESIZE_SVGA,
-    //    .frame_size     = FRAMESIZE_VGA,
-    .frame_size     = FRAMESIZE_CIF,
+    .frame_size     = FRAMESIZE_VGA,
+    //    .frame_size     = FRAMESIZE_CIF,
     .jpeg_quality   = 4,
     .fb_count       = 12
   };
