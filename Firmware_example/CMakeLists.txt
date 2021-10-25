@@ -19,7 +19,7 @@ if(IDF_TARGET STREQUAL "esp32" OR IDF_TARGET STREQUAL "esp32s2" OR IDF_TARGET ST
     conversions/jpge.cpp
     conversions/esp_jpg_decode.c
     )
-
+ 
   set(COMPONENT_ADD_INCLUDEDIRS
     driver/include
     conversions/include
