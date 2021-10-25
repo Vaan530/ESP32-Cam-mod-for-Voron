@@ -6,7 +6,7 @@ This is a webcam mod for Voron V2. This project is currently under development.
 
 What else you need:
 
-ESP32-CAM with ov2460/ov3660 x1
+ESP32-CAM with ov2640/ov3660 x1
 
 160-Degree Wide Angle Lens for ov2640/ov3660 camera module x 1
 
