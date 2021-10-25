@@ -1,6 +1,4 @@
-#ESP32-Cam-mod-for-Voron
-
-This is a ESP32-Cam mod for Voron V2.
+# ESP32-Cam Mod For Voron V2
 
 ---
 
