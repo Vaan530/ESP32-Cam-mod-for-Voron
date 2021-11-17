@@ -4,7 +4,6 @@
 An ESP32 based webcam mod for Voron V2.  
 *This project is currently under development.*
 
-
 ## Requirements
 
 To complete this project, in addition to the printed parts you will need the following:
@@ -19,18 +18,19 @@ To complete this project, in addition to the printed parts you will need the fol
 - M2.5X5 Pan Head x 4
 - 4x3 M3 Heatset insert X 1
 
-
-
 ## Firmware
 
-The firmware sample is modified from arkhipenko's ESP32 MJPEG Multiclient Streaming Server:
+The firmware sample is modified from [arkhipenko](https://github.com/arkhipenko/)'s ESP32 MJPEG Multiclient Streaming Server:
 
 https://github.com/arkhipenko/esp32-cam-mjpeg-multiclient
+
 ## Alternative Firmware
 
 ESPHome and the ESP32 Camera Web Server Component:
 
+https://esphome.io/index.html  
 https://esphome.io/components/esp32_camera_web_server.html
+
 ## Optional cable cover
 
 The cable cover was designed by [anton610](https://www.thingiverse.com/anton610/designs) on Thingiverse:
